@@ -1,0 +1,27 @@
+[
+  {
+    "RealtivePath": "..\\Konstantinova task 2.process",
+    "Main": true,
+    "Showing": true
+  },
+  {
+    "RealtivePath": "..\\Выборка данных в шапке.process",
+    "Main": false,
+    "Showing": false
+  },
+  {
+    "RealtivePath": "..\\Создание папок.process",
+    "Main": false,
+    "Showing": false
+  },
+  {
+    "RealtivePath": "..\\Работа с 1С.process",
+    "Main": false,
+    "Showing": true
+  },
+  {
+    "RealtivePath": "..\\..\\амри маотмаотцМА.process",
+    "Main": false,
+    "Showing": false
+  }
+]
